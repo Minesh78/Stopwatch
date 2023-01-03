@@ -20,6 +20,8 @@ body{
 .container{
     width: 60%;
     height: 35%;
+    margin: auto;
+    
   
 }
 
@@ -27,8 +29,9 @@ body{
     width: 100%;
     font-size: 72px;
     text-align: center;
-    margin: 0px auto;
-    padding: 35px;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -51,7 +54,7 @@ button i{
 }
 
 #play{
- color: green;
+     color: green;
 }
 #pause{
     color: rgb(255, 123, 0);
